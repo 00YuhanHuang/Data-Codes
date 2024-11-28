@@ -1,4 +1,4 @@
-# Data & Codes
+# Repository-for-Data-and-Source-Codes
 ## DATA OVERVIEW
 This repository contains the data and code used to generate the numerical results presented in the paper "Directional Alignment of Financial and Power Flows in Directed Single Cut Linked Interconnected Areas". It is made available to facilitate further research and allow readers to reproduce or build upon the authors' work.
 
