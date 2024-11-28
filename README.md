@@ -7,7 +7,7 @@ This repository contains the data and code used to generate the numerical result
 The authors have provided the data for a 7-bus system in the standard MATPOWER case format, stored in the file "case7.m" [1]. For those wishing to understand the data format in more detail, the MATPOWER User's Manual is available for download at https://matpower.org/doc/.
 
 ### Methods
-Two methods for calculating Locational Marginal Pricing (LMP) are implemented, based on the lossless and lossy DCOPF models described in [2]-[3], respectively.
+Two methods for calculating Locational Marginal Pricing (LMP) are implemented, based on the lossless and lossy DCOPF models [2]-[3].
 
 ### Code structure
 The primary function to run is 'main.m' which generates the results. Two additional functions are included:
